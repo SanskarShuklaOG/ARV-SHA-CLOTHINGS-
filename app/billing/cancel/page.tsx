@@ -1,0 +1,1 @@
+export default function Page(){return <div className='wrap section'><h1 className='serif' style={{fontSize:44,fontWeight:400}}>Cancel Subscription</h1><p className='muted'>Not applicable until a subscription product is intentionally added.</p></div>}

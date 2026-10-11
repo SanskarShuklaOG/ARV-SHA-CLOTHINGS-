@@ -1,0 +1,1 @@
+import {CartView} from "@/components/CartView";export const metadata={title:"Shopping bag"};export default function Cart(){return <div className="wrap section"><p className="eyebrow">Your selection</p><h1 className="serif" style={{fontSize:46,fontWeight:400}}>Shopping bag</h1><CartView/></div>}

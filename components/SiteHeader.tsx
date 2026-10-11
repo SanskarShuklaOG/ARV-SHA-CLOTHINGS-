@@ -1,0 +1,2 @@
+import Link from "next/link";
+export function SiteHeader(){return <header className="site-header"><div className="wrap header-inner"><Link href="/" className="brand" aria-label="ARVÉSHA CLOTHINGS home">ARVÉSHA</Link><nav className="header-nav" aria-label="Main navigation"><Link href="/shop">Shop all</Link><Link href="/categories">Categories</Link><Link href="/support">Help</Link></nav><div className="header-actions"><Link href="/account">Account</Link><Link href="/cart">Bag</Link></div></div></header>}
