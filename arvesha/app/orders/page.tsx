@@ -1,1 +1,0 @@
-export const metadata={title:"My orders"};export default function Orders(){return <div className="wrap section"><p className="eyebrow">Your purchases</p><h1 className="serif" style={{fontSize:46,fontWeight:400}}>My orders</h1><p className="muted">Sign in to see order status, tracking and purchase history. No order data is connected in this starter.</p></div>}

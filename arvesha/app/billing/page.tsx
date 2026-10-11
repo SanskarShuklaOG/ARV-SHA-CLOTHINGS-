@@ -1,1 +1,0 @@
-export default function Billing(){return <div className='wrap section'><h1 className='serif' style={{fontSize:44,fontWeight:400}}>Billing</h1><p className='muted'>This clothing store does not currently have subscription billing. These routes are placeholders and are not connected to payments.</p></div>}

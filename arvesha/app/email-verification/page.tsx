@@ -1,1 +1,0 @@
-export default function Page(){return <div className='wrap section'><h1 className='serif' style={{fontSize:44,fontWeight:400}}>Verify your email</h1><p>Email verification needs a configured authentication provider and email service.</p><p>You can browse as a guest while setup is pending.</p></div>}
