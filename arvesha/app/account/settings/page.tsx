@@ -1,0 +1,1 @@
+export default function Page(){return <div className='wrap section'><h1 className='serif' style={{fontSize:44,fontWeight:400}}>Account settings</h1><p>Profile editing and account deletion will be enabled after authentication is configured.</p></div>}

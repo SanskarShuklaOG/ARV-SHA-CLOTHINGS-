@@ -1,0 +1,1 @@
+export default function Page(){return <div className='wrap section'><h1 className='serif' style={{fontSize:44,fontWeight:400}}>Welcome to ARVÉSHA</h1><p>Account onboarding will be available after authentication is connected.</p></div>}

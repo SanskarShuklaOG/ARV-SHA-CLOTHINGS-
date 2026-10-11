@@ -1,0 +1,1 @@
+export default function Page(){return <div className='wrap section'><h1 className='serif' style={{fontSize:44,fontWeight:400}}>Payment Pending</h1><p className='muted'>Payment status must be confirmed by the server and payment provider. This page alone does not confirm payment.</p></div>}
